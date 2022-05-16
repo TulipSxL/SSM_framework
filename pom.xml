@@ -13,7 +13,7 @@
         <!-- spring版本号 -->
         <spring.version>5.2.21.RELEASE</spring.version>
         <!-- mybatis版本号 -->
-        <mybatis.version>3.4.6</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <!-- jackson包版本 -->
         <jackson.version>2.5.0</jackson.version>
     </properties>
